@@ -21,11 +21,11 @@ This project uses PyTorch and RegNetY-8GF, a powerful convolutional model from T
 * At the end, it generates a submission.csv with predictions.
 
 ## Tools I Used
-Frameworks: PyTorch, Torchvision
-Data: Pandas, NumPy, Pillow, OpenCV
-Metrics: scikit-learn
-Visualization: Matplotlib
-Model: RegNetY-8GF
+* Frameworks: PyTorch, Torchvision
+* Data: Pandas, NumPy, Pillow, OpenCV
+* Metrics: scikit-learn
+* Visualization: Matplotlib
+* Model: RegNetY-8GF
 
 ## What I learnt
 Training this model taught me a lot about balance, which is not just in data splits, but in design.
